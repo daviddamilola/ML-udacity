@@ -1,0 +1,25 @@
+relationship with AI
+- ML is a type of AI
+- allows computers to learn and improve experiences without been explictly programmed to do so
+- ML is how computers learn from data to discover patterns and make predictions
+- Supervised learning ( a type of ML)
+- Every training sample data set has a label(output value) with it
+- the algorithm learns to predict labels or output values.
+- can be used in things like, predicting the sales price of a house , classifying images
+- Unsupervised learning, no labels for training data
+- the algorithm tries to identify pattterns and distributions governing the data
+- in both supervised and un supervised learning, the machine discovers patterns in data, then humans make use of this patterns to make better
+descisions
+-Reinforcement Learning
+learning what actions to take in a situation to maximise rewards
+
+
+
+How ML helps solve problems
+In machine learning, the problem solver abstracts away part of their solution as a flexible component called a model,
+model training algo adjust the model to real world data
+resulting in a trained model that can be used to predict outcomes that are not part of the data set used to train the model
+ML automates some of the statistical resoning and pattern matching that a problem solver will traditionally do
+Flexibility of the model is key.
+
+The overall goal is to use a model created by a model training algorithm to generate predictions or find patterns in data that can be used to solve a problem.
