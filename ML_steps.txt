@@ -1,1 +1,0 @@
-Define the problem --> build the data set --> train the model --> evaluate The model --> use the model
